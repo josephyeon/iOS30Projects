@@ -1,0 +1,6 @@
+framework module Pods_12_Notice {
+  umbrella header "Pods-12-Notice-umbrella.h"
+
+  export *
+  module * { export * }
+}

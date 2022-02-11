@@ -1,0 +1,6 @@
+framework module Pods_11_CreditCardList {
+  umbrella header "Pods-11-CreditCardList-umbrella.h"
+
+  export *
+  module * { export * }
+}

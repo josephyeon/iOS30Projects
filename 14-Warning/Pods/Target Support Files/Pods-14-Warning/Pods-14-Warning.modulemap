@@ -1,0 +1,6 @@
+framework module Pods_14_Warning {
+  umbrella header "Pods-14-Warning-umbrella.h"
+
+  export *
+  module * { export * }
+}

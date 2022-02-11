@@ -1,0 +1,6 @@
+framework module Pods_10_SpotifyLoginSampleApp {
+  umbrella header "Pods-10-SpotifyLoginSampleApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
