@@ -11,7 +11,7 @@ class HomeViewController: UICollectionViewController {
 
     var contents: [Content] = []
 
-
+//
     override func viewDidLoad() {
         super.viewDidLoad()
 

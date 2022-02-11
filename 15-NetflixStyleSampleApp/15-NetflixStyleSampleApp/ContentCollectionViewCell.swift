@@ -7,7 +7,7 @@
 
 import UIKit
 import SnapKit
-
+//
 class ContentCollectionViewCell: UICollectionViewCell {
     let imageView = UIImageView()
 
